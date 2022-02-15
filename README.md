@@ -85,7 +85,8 @@ This command is used to switch from one branch to another:<br><br>
 ```git checkout branch_name```   <br><br>
 
 This command creates a new branch and also switches to it:<br><br>
-```git checkout -b branch_name```   
+```git checkout -b branch_name```   <br><br>
+(https://images.app.goo.gl/HnWQgwp9veBhQZxq9)
 
 ### 12. Git log
 
